@@ -3,8 +3,8 @@
 ## Overview
 **Timetabled** is a grid-style calendar application designed to plan out a **single week** with one-hour events. In this project, you will create a personalized itinerary for someone, filling each day with specific activities. This can be for a real or imaginary person, historical figure, or even a pet. The goal is to visually represent a weekly schedule with varied events, colors, and additional information like descriptions and locations.
 
-### Example: **7-Day Itinerary for Chicago**
-   Here’s an example of what the project will create — a detailed **7-day itinerary for a trip to Chicago**, perfect for someone looking to explore the city’s sights:
+### **7-Day Itinerary for Chicago**
+   Here’s the example of what I've created — a detailed **7-day itinerary for a trip to Chicago**, perfect for someone looking to explore the city’s sights:
 
    **Sunday:**
    - **8:00 am**: Starbucks (Start your day with coffee at a local Starbucks)
