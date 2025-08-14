@@ -1,51 +1,82 @@
-# Timetabled
+# 📅 Timetabled
 
-## Overview
-**Timetabled** is a grid-style calendar application designed to plan out a **single week** with one-hour events. In this project, you will create a personalized itinerary for someone, filling each day with specific activities. This can be for a real or imaginary person, historical figure, or even a pet. The goal is to visually represent a weekly schedule with varied events, colors, and additional information like descriptions and locations.
+**Timetabled** is a grid-style weekly calendar app that allows you to plan a **single week** with one-hour events. Users can create personalized itineraries with event titles, colors, descriptions, and locations for each time block. Perfect for real or imaginary trips, historical figures, or even pets!
 
-### **7-Day Itinerary for Chicago**
-   Here’s the example of what I've created — a detailed **7-day itinerary for a trip to Chicago**, perfect for someone looking to explore the city’s sights:
+---
 
-   **Sunday:**
-   - **8:00 am**: Starbucks (Start your day with coffee at a local Starbucks)
-   - **9:00 am**: The Bean (Visit the iconic Cloud Gate at Millennium Park)
-   - **10:00 am**: River Cruise (Take a scenic boat tour along the Chicago River)
+## 📸 Screenshot
+<img src="./Screenshot.png" alt="Timetabled Screenshot" width="600" />
 
-   **Monday:**
-   - **12:00 pm**: Yolk (Enjoy a delicious breakfast or brunch at Yolk)
-   - **1:00 pm**: Art Institute (Explore one of the best art museums in the country)
-   - **2:00 pm**: Girl & the Goat (Indulge in award-winning dishes at this famous restaurant)
+---
 
-   **Tuesday:**
-   - **10:00 am**: Cubs Game (Catch a game at Wrigley Field)
-   - **3:00 pm**: Shopping (Shop along the Magnificent Mile)
+## 🗓 7-Day Itinerary Example – Chicago Trip
 
-   **Wednesday:**
-   - **12:00 pm**: Deep Dish Pizza (Try Chicago's famous deep dish pizza at a local pizzeria)
+**Sunday:**  
+- **8:00 am**: Starbucks – Start your day with coffee at a local Starbucks  
+- **9:00 am**: The Bean – Visit the iconic Cloud Gate at Millennium Park  
+- **10:00 am**: River Cruise – Take a scenic boat tour along the Chicago River  
 
-   **Thursday:**
-   - **8:00 am**: Subway R (Grab a quick breakfast at a nearby subway station)
-   - **5:00 pm**: Fancy Dinner (End your day with a fine dining experience)
+**Monday:**  
+- **12:00 pm**: Yolk – Enjoy a delicious breakfast or brunch  
+- **1:00 pm**: Art Institute – Explore one of the best art museums in the country  
+- **2:00 pm**: Girl & the Goat – Indulge in award-winning dishes at this famous restaurant  
 
-   **Friday:**
-   - **10:00 am**: River Cruise (Take another relaxing river cruise)
+**Tuesday:**  
+- **10:00 am**: Cubs Game – Catch a game at Wrigley Field  
+- **3:00 pm**: Shopping – Shop along the Magnificent Mile  
 
-   **Saturday:**
-   - **11:00 am**: Cubs Game (Return to Wrigley for another thrilling Cubs game)
+**Wednesday:**  
+- **12:00 pm**: Deep Dish Pizza – Try Chicago's famous deep dish pizza at a local pizzeria  
 
-Each day is planned with events, including the title, description, and location to provide a complete and enjoyable experience.
+**Thursday:**  
+- **8:00 am**: Subway R – Grab a quick breakfast at a nearby subway station  
+- **5:00 pm**: Fancy Dinner – End your day with a fine dining experience  
 
-## Features
-### 1. **One-Week Calendar**
-   - A **grid-style layout** that includes one-hour time blocks for the entire week (7 days).
-   - Each hour block can be filled with **custom events**.
+**Friday:**  
+- **10:00 am**: River Cruise – Take another relaxing river cruise  
 
-### 2. **Event Titles**
-   - Each event will have a **unique title** to distinguish it.
+**Saturday:**  
+- **11:00 am**: Cubs Game – Return to Wrigley for another thrilling Cubs game  
 
-### 3. **Event Colors**
-   - Events are color-coded based on their **type** (e.g., work, leisure, exercise, meals).
-   - This visual distinction helps to easily identify different categories of activities.
+---
 
-### 4. **Event Descriptions & Locations**
-   - Each event block can include additional details, such as a **description** of the event and its **location**.
+## ✨ Features
+
+- **One-Week Calendar**  
+  - Grid-style layout with **one-hour time blocks** for all 7 days  
+  - Each block can hold **custom events**  
+
+- **Event Titles**  
+  - Unique titles for easy identification  
+
+- **Event Colors**  
+  - Color-coded based on **type** (work, leisure, exercise, meals)  
+
+- **Event Descriptions & Locations**  
+  - Each block can include detailed **descriptions** and **locations**  
+
+---
+
+## 🛠 Built With
+
+- HTML / CSS / JavaScript  
+- Grid-style layout for the calendar  
+- Color-coded event blocks  
+
+---
+
+## 📜 License
+
+    Copyright [2025] [Kelvin Mathew]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
